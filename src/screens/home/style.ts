@@ -19,7 +19,7 @@ export const styles = StyleSheet.create({
     height: 64,
     backgroundColor: '#262626',
     color: '#F2F2F2',
-    fontSize: 24,
+    fontSize: 18,
     padding: 16,
     borderColor: '#0D0D0D',
     borderWidth: 1,
