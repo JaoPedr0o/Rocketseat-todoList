@@ -56,6 +56,7 @@ export const styles = StyleSheet.create({
     flexDirection: 'row',
     justifyContent: 'space-between',
     width: '100%',
+    marginBottom: 20
   },
 
   createInfoText: {
@@ -85,7 +86,6 @@ export const styles = StyleSheet.create({
     alignItems: 'center',
     borderTopColor: '#262626',
     borderTopWidth: 2,
-    marginTop: 20,
     paddingTop: 70,
     gap: 16,
   },
