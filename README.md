@@ -12,7 +12,7 @@ Tecnologias
 - React Native
 - Typescript
 
-![todoListImg](https://github.com/user-attachments/assets/20629dce-f3e8-449e-8bbb-0c7d75ef73db)
+![todolistimage](https://github.com/user-attachments/assets/2ad97fe3-2f1e-4811-b800-15a81541f46b)
 
 ## 🔖 Layout
 
